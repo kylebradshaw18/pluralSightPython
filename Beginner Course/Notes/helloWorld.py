@@ -1,6 +1,12 @@
 #prints Hello World
 print("Hello World")
 
+t = str("16")
+if t == 16:
+	print(True)
+else:
+	print(False)
+
 
 #Lists
 string_list = ["hello", "world"]
